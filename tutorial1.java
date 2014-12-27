@@ -6,6 +6,8 @@ import org.opencv.core.Core;
 import org.opencv.core.Mat;
 import org.opencv.highgui.Highgui;
 
+// http://docs.opencv.org/trunk/doc/py_tutorials/py_gui/py_image_display/py_image_display.html#py-display-image 
+
 public class tutorial1 extends JFrame
 {
 
