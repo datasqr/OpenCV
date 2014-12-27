@@ -12,3 +12,6 @@ http://docs.opencv.org/trunk/doc/py_tutorials/py_gui/py_image_display/py_image_d
 tutorial2
 http://docs.opencv.org/trunk/doc/py_tutorials/py_gui/py_drawing_functions/py_drawing_functions.html
 
+tutorial3
+http://docs.opencv.org/trunk/doc/py_tutorials/py_gui/py_mouse_handling/py_mouse_handling.html
+
