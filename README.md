@@ -17,3 +17,9 @@ http://docs.opencv.org/trunk/doc/py_tutorials/py_gui/py_mouse_handling/py_mouse_
 
 tutorial4
 http://docs.opencv.org/trunk/doc/tutorials/introduction/load_save_image/load_save_image.html#load-save-image
+
+tutorial5
+Basic operations on Mat object
+
+WebCamImage
+Simple code to capture image
