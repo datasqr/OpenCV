@@ -3,7 +3,7 @@ OpenCV
 
 Java OpenCV
 In this folder OpenCV lib tutorial will be realised with Java.
-Python files are as a benchmark from following webpage:
+Python and C++ files are as a benchmark from following webpage:
 http://docs.opencv.org/trunk/doc/py_tutorials/py_tutorials.html
 
 tutorial1
@@ -15,3 +15,5 @@ http://docs.opencv.org/trunk/doc/py_tutorials/py_gui/py_drawing_functions/py_dra
 tutorial3
 http://docs.opencv.org/trunk/doc/py_tutorials/py_gui/py_mouse_handling/py_mouse_handling.html
 
+tutorial4
+http://docs.opencv.org/trunk/doc/tutorials/introduction/load_save_image/load_save_image.html#load-save-image
