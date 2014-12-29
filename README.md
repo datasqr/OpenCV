@@ -23,3 +23,6 @@ Basic operations on Mat object
 
 WebCamImage
 Simple code to capture image
+
+Sharpen
+Class to apply sharpening to an image
