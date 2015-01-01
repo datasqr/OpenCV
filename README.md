@@ -28,4 +28,4 @@ Sharpen
 Class to apply sharpening to an image
 
 WebCam
-Code to capture image stream from the webcam
+Code to streming video from the webcam
