@@ -29,3 +29,6 @@ Class to apply sharpening to an image
 
 WebCam:
 Code to streaming video from the webcam
+
+FaceDetection.java:
+Webcam detects face frome the image
