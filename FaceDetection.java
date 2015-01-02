@@ -20,6 +20,7 @@ import org.opencv.highgui.VideoCapture;
 import org.opencv.imgproc.Imgproc;
 import org.opencv.objdetect.CascadeClassifier;
 
+// source https://www.youtube.com/watch?v=7bpwJtQ65oY
 
 public class FaceDetection extends JFrame
 {
