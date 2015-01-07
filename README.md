@@ -35,3 +35,6 @@ Webcam detects face frome the image
 
 Contrast.java:
 tutorial http://docs.opencv.org/trunk/doc/tutorials/core/basic_linear_transform/basic_linear_transform.html 
+
+Blending.java:
+http://docs.opencv.org/trunk/doc/tutorials/core/adding_images/adding_images.html
